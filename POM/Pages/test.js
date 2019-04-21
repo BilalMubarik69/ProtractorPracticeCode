@@ -11,7 +11,7 @@ module.exports={
     Cust_Add.postalAddress.sendKeys(PostAdd);
     Cust_Add.processButton.click();
     alert.HandlingAlertCustomerAccount();
-    browser.sleep(10000);
+    
     
     }
 

@@ -1448,6 +1448,67 @@ app.controller('ScreenshotReportController', function ($scope, $http) {
         "screenShotFile": "009a00ae-003c-0000-005e-002700820046.png",
         "timestamp": 1555834216849,
         "duration": 776
+    },
+    {
+        "description": "Add Customers|Bank Manager Account Creation and Deletion",
+        "passed": true,
+        "pending": false,
+        "os": "Windows NT",
+        "sessionId": "153a2bf8902dab028314f3a4a3f5f25b",
+        "instanceId": 7500,
+        "browser": {
+            "name": "chrome",
+            "version": "73.0.3683.103"
+        },
+        "message": "Passed.",
+        "trace": "",
+        "browserLogs": [
+            {
+                "level": "SEVERE",
+                "message": "http://www.globalsqa.com/favicon.ico - Failed to load resource: the server responded with a status of 404 (Not Found)",
+                "timestamp": 1555836270548,
+                "type": ""
+            }
+        ],
+        "screenShotFile": "003c00f2-00e8-00b5-00ac-00d8001300d7.png",
+        "timestamp": 1555836271341,
+        "duration": 1526
+    },
+    {
+        "description": "Open Account|Bank Manager Account Creation and Deletion",
+        "passed": true,
+        "pending": false,
+        "os": "Windows NT",
+        "sessionId": "153a2bf8902dab028314f3a4a3f5f25b",
+        "instanceId": 7500,
+        "browser": {
+            "name": "chrome",
+            "version": "73.0.3683.103"
+        },
+        "message": "Passed.",
+        "trace": "",
+        "browserLogs": [],
+        "screenShotFile": "009600be-00f1-0098-00db-00d40015003c.png",
+        "timestamp": 1555836273296,
+        "duration": 908
+    },
+    {
+        "description": "Customers|Bank Manager Account Creation and Deletion",
+        "passed": true,
+        "pending": false,
+        "os": "Windows NT",
+        "sessionId": "153a2bf8902dab028314f3a4a3f5f25b",
+        "instanceId": 7500,
+        "browser": {
+            "name": "chrome",
+            "version": "73.0.3683.103"
+        },
+        "message": "Passed.",
+        "trace": "",
+        "browserLogs": [],
+        "screenShotFile": "002300dd-0092-00cd-00b5-009a00e60001.png",
+        "timestamp": 1555836274612,
+        "duration": 1008
     }
 ];
 
