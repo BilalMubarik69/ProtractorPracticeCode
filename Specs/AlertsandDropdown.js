@@ -34,7 +34,7 @@ describe('Bank Manager Account Creation and Deletion',function()
     
     it('Add Customers',function()
     {
-       AddCust.AddCustomer("Tom","Jones","223344");
+       AddCust.AddCustomer("Tom","Jones","27890");
     
     });
 
